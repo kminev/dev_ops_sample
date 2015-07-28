@@ -2,7 +2,7 @@ public class MyStaticClass {
 	
 
 	//NEW CHANGE
-	
+	//another change goes in here
 	private static List<Account> accounts;
 
 	static{
