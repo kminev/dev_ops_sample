@@ -1,5 +1,8 @@
 public class MyStaticClass {
 	
+
+	//NEW CHANGE
+	
 	private static List<Account> accounts;
 
 	static{
