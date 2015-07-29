@@ -2,7 +2,8 @@ public class MyStaticClass {
 	
 
 	//NEW CHANGE
-	
+	//another change goes in here
+	//another change for the new feature branch
 	private static List<Account> accounts;
 
 	static{
